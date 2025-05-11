@@ -53,13 +53,13 @@ body {
   .delay {
     animation-delay: 1s;
     color: black;
-    font-size: 42px;
+    font-size: 70px;
   }
   
   .delay2 {
     animation-delay: 2s;
     color: black;
-    font-size: 40px;
+    font-size: 65px;
   }
   
   .delay3 {
