@@ -44,7 +44,7 @@ body {
   /* Fade-in анімація */
   .fade-in {
     font-family: 'PacificoStatic', cursive;
-    font-weight: 100;
+    font-weight: 150;
     font-style: normal;
     opacity: 0;
     animation: fadeIn 5s ease forwards;
@@ -53,13 +53,13 @@ body {
   .delay {
     animation-delay: 1s;
     color: black;
-    font-size: 35px;
+    font-size: 42px;
   }
   
   .delay2 {
     animation-delay: 2s;
     color: black;
-    font-size: 35px;
+    font-size: 40px;
   }
   
   .delay3 {
