@@ -52,10 +52,14 @@ body {
   
   .delay {
     animation-delay: 1s;
+    color: black;
+    font-size: 35px;
   }
   
   .delay2 {
     animation-delay: 2s;
+    color: black;
+    font-size: 35px;
   }
   
   .delay3 {
