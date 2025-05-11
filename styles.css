@@ -44,26 +44,29 @@ body {
   /* Fade-in анімація */
   .fade-in {
     font-family: 'PacificoStatic', cursive;
-    font-weight: 150;
+    font-weight: 200;
     font-style: normal;
     opacity: 0;
     animation: fadeIn 5s ease forwards;
+    font-size: 70px;
   }
   
   .delay {
     animation-delay: 1s;
     color: black;
-    font-size: 70px;
+    font-size: 45px;
   }
   
   .delay2 {
     animation-delay: 2s;
     color: black;
-    font-size: 65px;
+    font-size: 55px;
   }
   
   .delay3 {
     animation-delay: 3s;
+    color: wihte;
+    font-size: 20px;
   }
   
   @keyframes fadeIn {
