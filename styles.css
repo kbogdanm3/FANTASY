@@ -54,19 +54,16 @@ body {
   .delay {
     animation-delay: 1s;
     color: black;
-    font-size: 10px;
   }
   
   .delay2 {
     animation-delay: 2s;
     color: black;
-    font-size: 10px;
   }
   
   .delay3 {
     animation-delay: 3s;
     color: wihte;
-    font-size: 15px;
   }
   
   @keyframes fadeIn {
