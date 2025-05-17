@@ -48,7 +48,6 @@ body {
     font-style: normal;
     opacity: 0;
     animation: fadeIn 5s ease forwards;
-    font-size: 70px;
   }
   
   .delay {
